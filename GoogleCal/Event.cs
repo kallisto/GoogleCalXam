@@ -94,10 +94,6 @@ namespace GEvents
                     return this.starttime.ToString(
                         "@ " +
                         GetMinuteFormat(this.starttime) +
-                        GetTT(this.starttime, this.endtime),
-                        CultureInfo.CreateSpecificCulture("en")) +
-                    this.endtime.ToString(
-                        GetMinuteFormat(this.endtime) +
                         " tt ",
                         CultureInfo.CreateSpecificCulture("en")) +
                         formatTimezone(this.timezone);
