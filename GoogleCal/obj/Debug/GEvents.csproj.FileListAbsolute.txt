@@ -1,0 +1,5 @@
+c:\users\nina vyedin\documents\visual studio 2010\Projects\GoogleCal\GoogleCal\obj\Debug\ResolveAssemblyReference.cache
+c:\users\nina vyedin\documents\visual studio 2010\Projects\GoogleCal\GoogleCal\bin\Debug\GoogleCal.dll
+c:\users\nina vyedin\documents\visual studio 2010\Projects\GoogleCal\GoogleCal\bin\Debug\GoogleCal.pdb
+c:\users\nina vyedin\documents\visual studio 2010\Projects\GoogleCal\GoogleCal\obj\Debug\GoogleCal.dll
+c:\users\nina vyedin\documents\visual studio 2010\Projects\GoogleCal\GoogleCal\obj\Debug\GoogleCal.pdb
